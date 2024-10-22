@@ -1,0 +1,9 @@
+.grandpa{
+    border: 2px solid tomato;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+}
+.flex{
+    display: flex;
+}
